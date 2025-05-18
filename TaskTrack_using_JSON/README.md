@@ -93,7 +93,7 @@ node tasktracker.js help
 Displays all available commands and their usage.
 
 ---
-## Example
+## Example of All Commands
 ```bash
 # Adding a new task
 node tasktrack.js add "Buy groceries"
