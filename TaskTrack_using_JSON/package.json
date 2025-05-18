@@ -1,0 +1,13 @@
+{
+  "name": "tasktrack",
+  "version": "1.0.0",
+  "main": "tasktrack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task-cli": "node tasktrack.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
