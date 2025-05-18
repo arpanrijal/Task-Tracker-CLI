@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+//above code is shabang code
+
+// Or require your main logic file if separate: -----commentONLY
+require('../tasktrack.js');
