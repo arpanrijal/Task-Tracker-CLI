@@ -126,10 +126,3 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 ## 💡 Author
 
 Developed with ❤️ by [Arpan Rijal](https://github.com/arpanrijal)
-
-```
-
----
-
-Let me know if you want me to generate a sample `LICENSE` or GitHub badges for the top of the README.
-```
