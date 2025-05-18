@@ -121,27 +121,17 @@ Originally created as part of the [roadmap.sh](https://roadmap.sh/projects/task-
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a pull request
 
-** FAQ ❓ **
-** Q: Which version should I use? **
-A: Use JSON version for serious task management, filesystem version for quick lists
+## FAQ ❓
 
-** Q: Can I use both simultaneously? **
-A: Not recommended as they use different storage systems
+**Q:** Which version should I use?  
+**A:** Use JSON version for serious task management, filesystem version for quick lists
 
-** Q: How do I back up my tasks? **
-A: Simply copy task.json or tasklist.txt to another location
+**Q:** Can I use both simultaneously?  
+**A:** Not recommended as they use different storage systems
+
+**Q:** How do I back up my tasks?  
+**A:** Simply copy `task.json` or `tasklist.txt` to another location
 
 ## License 📜
 
 MIT © [Arpan Rijal](https://github.com/arpanrijal)
-```
-
-** Key features of this combined version: **
-1. Clear separation of both implementations with their own usage sections
-2. Unified installation instructions
-3. Combined file structure overview
-4. Side-by-side example workflows
-5. Maintained all original functionality
-6. Added visual distinction between versions
-7. Kept the roadmap.sh reference
-```
