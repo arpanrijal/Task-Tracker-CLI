@@ -148,4 +148,4 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 ## 💡 Author
 
-Developed with ❤️ by [Arpan Rijal](https://github.com/arpanrijal)
+Developed with ❤️ by [Arpan Rijal](https://github.com/arpanrijal) and Project from [roadmap](https://roadmap.sh/projects/task-tracker)
