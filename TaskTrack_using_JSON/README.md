@@ -93,6 +93,29 @@ node tasktracker.js help
 Displays all available commands and their usage.
 
 ---
+## Example
+```bash
+# Adding a new task
+node tasktrack.js add "Buy groceries"
+# Output: Task added successfully (ID: 1)
+
+# Updating and deleting tasks
+node tasktrack.js update 1 "Buy groceries and cook dinner"
+node tasktrack.js delete 1
+
+# Marking a task as in progress or done
+node tasktrack.js mark-in-progress 1
+node tasktrack.js mark-done 1
+
+# Listing all tasks
+node tasktrack.js list
+
+# Listing tasks by status
+node tasktrack.js list done
+node tasktrack.js list todo
+node tasktrack.js list in-progress
+```
+---
 
 ## 🗃️ Data Storage
 
